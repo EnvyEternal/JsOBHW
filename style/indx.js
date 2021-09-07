@@ -1,9 +1,7 @@
-/*const map = {
-    1:[id-1,Tom, Fox],
-    2:[id-2,Ann, Smith],
-    3:[id-3,Jack, Cros],
-}
-
+/*
+let map = new Map();
+map.set(1,{name:"Tom",surname:"Fox",})
+console.log(map.get(1))
 */
 const worker = {
     name: 'Jack',
